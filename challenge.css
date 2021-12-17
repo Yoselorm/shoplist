@@ -1,0 +1,51 @@
+.Select{
+	background-color: white;
+	color: black;
+	padding-left: 10px;
+	padding-right: 30px;
+	margin-left: 1rem;
+}
+.whole{
+	margin-top: 35px;
+}
+.sizebutton{
+	border-radius: 50%;
+	padding: 10px 15px;
+	background-color: lightgrey;
+	color: black;
+	border: none;
+	font-weight: bold;
+}
+.price{
+	text-align: center;
+	font-weight: bold;
+}
+.cartbutton{
+	margin-left: -1rem;
+	background-color: black;
+	color: white;
+	border: none;
+	padding-top: 0.5rem;
+	padding:-bottom:0.5rem;
+	font-size: 14px;
+	border-radius: 0px;
+	width: 180px;
+}
+.cardline{
+	border: none;
+}
+.fs{
+	color: white;
+	background-color: black;
+	position: absolute;
+	right: 12px;
+	margin-right: -0.8rem;
+	font-size: 10px;
+
+}
+.nr{
+	margin-top: 3rem;
+}
+.sel{
+	display: inline-flex;
+}
